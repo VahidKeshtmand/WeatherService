@@ -7,7 +7,8 @@ Since we are working with an external service, it would be good to use Circuit B
 
 ---
 
-- **Most useful feature recently added to your favorite programming language:**  
+- **What is the most useful feature recently added to your favorite programming language?
+Please include a code snippet to demonstrate how you use it.**  
 We can define fields, properties, and events with default values in an interface.
 
 ```csharp
@@ -22,6 +23,9 @@ public interface ILogger
     }
 }
 ```
+
+---
+
 - **How do you identify and diagnose a performance issue in a production environment? Have you done this before?**  
 We need to use monitoring tools like Prometheus.
 It is a tool that helps to measure various metrics, such as:
