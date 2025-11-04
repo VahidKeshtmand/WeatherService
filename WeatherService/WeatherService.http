@@ -1,0 +1,6 @@
+@WeatherService_HostAddress = http://localhost:5062
+
+GET {{WeatherService_HostAddress}}/api/city-environmental-condition/Tehran
+Accept: application/json
+
+###
